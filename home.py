@@ -117,6 +117,7 @@ def main():
         "Bank Statement Analysis": "pdf2csv-preprocessing.py",
         "Pay Slip Analysis": "paySlipCombined.py",
         "Invoice Analysis": "invoiceCombined.py",
+        "Stock Trend Analysis": "APIcombined.py",
         "LLM Transaction Classifier": r"LLM.py"
     }
 
